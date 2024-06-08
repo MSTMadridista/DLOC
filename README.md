@@ -10,6 +10,11 @@
 و بعد از وارد کردن اطلاعات کلاس ، برنامه بصورت خودکار دانلود رو داخل دیفالت بروزر شما آغاز میکنه 😎🔥
 
 
+
+🔶برای پیست کردن لینک کلاس فقط کافیه کلیک راست کنین داخل برنامه یا CTRL+V رو بزنین ک لینک کلاس پیست شه
+
+
+
 اگر بعد از دانلود و اجرا با این صفحه مواجه شدین ⭩
 
   ![Screenshot 2024-05-26 111245](https://github.com/MSTMadridista/DLOC/assets/149692666/83861358-d2c4-4a39-8bb7-afd31a68f7fb)
@@ -49,8 +54,10 @@ After running the program, U'll see the following screen (in current version (1.
 ![Screenshot (117)](https://github.com/MSTMadridista/DLOC/assets/149692666/0c84da2a-eff9-408f-97bc-426c6ec3843e)
 And after entering the class information, the program will automatically start downloading in your default browser 😎🔥
 
+🔶To paste the class link, just right click inside the program or use CTRL+V to paste the class link.
 
 If you come across this page after downloading and running ⤸
+
    ![Screenshot 2024-05-26 111245](https://github.com/MSTMadridista/DLOC/assets/149692666/83861358-d2c4-4a39-8bb7-afd31a68f7fb)
 
 don't panic 
