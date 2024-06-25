@@ -47,7 +47,7 @@ I hope u like it ✌️❤️‍🔥
 
 
 
-===================================================================================
+===========================================================================
 hi there . This is MST and I created this program for the convenience of students of Shiraz University's Faculty of Electronic Education 🤜🏻🤛🏻
 By using this program, U R able to download the classes of the faculty , offline (if that class has been uploaded by the faculty).
 
