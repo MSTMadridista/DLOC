@@ -3,16 +3,20 @@
 
 🔶 در صورتی که در دانلود کردن برنامه مشکل دارین روی https://github.com/MSTMadridista/DLOC/blob/master/Download_Guide.md کلیک کنین 
 
-شما بعد از اجرای برنامه با صفحه زیر مواجه میشید (‌ درحال حاضر که ورژن 1.1 در دسترس هست ) ⬐
+شما بعد از اجرای برنامه با صفحه زیر مواجه میشید (‌ درحال حاضر که ورژن 2.0 در دسترس هست ) ⬐
 
-![Guide](https://github.com/MSTMadridista/DLOC/assets/149692666/45c89fab-3579-4e91-a9ad-f6734d6689ed)
+
+![Screenshot 2024-06-25 122606](https://github.com/MSTMadridista/DLOC/assets/149692666/2f692ee6-b7be-430a-a60e-2f36763f81f7)
 
 و بعد از وارد کردن اطلاعات کلاس ، برنامه بصورت خودکار دانلود رو داخل دیفالت بروزر شما آغاز میکنه 😎🔥
 
-
-
 🔶برای پیست کردن لینک کلاس فقط کافیه کلیک راست کنین داخل برنامه یا CTRL+V رو بزنین ک لینک کلاس پیست شه
 
+وقتی شما اطلاعات کلاس رو وارد کنین و دانلود شروع شد شما در برنامه با این صفحه مواجه میشین :
+
+![Screenshot 2024-06-25 122612](https://github.com/MSTMadridista/DLOC/assets/149692666/0f7ab36c-743c-4ee3-aef9-0f411cd08a51)
+
+ که با زدن دکمه SPACE شما میتونین از برنامه دوباره استفاده کنین . همچنین میتونین با دکمه  ESC برنامه رو ببندین
 
 
 اگر بعد از دانلود و اجرا با این صفحه مواجه شدین ⭩
@@ -48,13 +52,19 @@ hi there . This is MST and I created this program for the convenience of student
 By using this program, U R able to download the classes of the faculty , offline (if that class has been uploaded by the faculty).
 
 🔶 if you're having trouble downloading, check out this guide: https://github.com/MSTMadridista/DLOC/blob/master/Download_Guide.md
+After running the program, you will see the following screen (now that version 2.0 is available) ⬐
 
-After running the program, U'll see the following screen (in current version (1.1)) ↴
+![Screenshot 2024-06-25 122606](https://github.com/MSTMadridista/DLOC/assets/149692666/2f692ee6-b7be-430a-a60e-2f36763f81f7)
 
-![Screenshot (117)](https://github.com/MSTMadridista/DLOC/assets/149692666/0c84da2a-eff9-408f-97bc-426c6ec3843e)
 And after entering the class information, the program will automatically start downloading in your default browser 😎🔥
 
-🔶To paste the class link, just right click inside the program or use CTRL+V to paste the class link.
+🔶To paste the class link, just right click inside the program or press CTRL+V to paste the class link.
+
+When you enter the class information and the download starts, you will see this in the program:
+
+![Screenshot 2024-06-25 122612](https://github.com/MSTMadridista/DLOC/assets/149692666/0f7ab36c-743c-4ee3-aef9-0f411cd08a51)
+
+ By pressing the SPACE button, you can use the program again. You can also close the program with the ESC button
 
 If you come across this page after downloading and running ⤸
 
