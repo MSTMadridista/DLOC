@@ -37,7 +37,7 @@
 
 🔴 فکر کنم درجریان باشین که دانلود با آیپی غیر ایران ممکن نیس . اگر خارج ایران هستین از VPN با آیپی ایران استفاده کنین یا اگر به VPN متصل هستین اتصال VPN رو قطع کنین 
 
-⚪ در صورتی که مشکل یا سوالی داشتین میتونین از https://t.me/M4dridista برای ارتباط با من استفاده کنین 
+⚪ در صورتی که مشکل یا سوالی داشتین میتونین از https://t.me/MSTdev برای ارتباط با من استفاده کنین 
 
 
 I hope u like it ✌️❤️‍🔥
@@ -85,7 +85,7 @@ Once u do this, u don't needa do it again for the next times .
 🔴 I think u should be aware that it's NOT possible to download with a non-Iranian IP. If u live outside Iran, use a VPN with an Iranian IP, or if u are connected to a VPN, disconnect the VPN connection 
 
 
-⚪ If you have any problems or questions, you can use https://t.me/M4dridista to contact me. 
+⚪ If you have any problems or questions, you can use https://t.me/MSTdev to contact me. 
 
 
 I hope you like it ✌️❤️🔥
